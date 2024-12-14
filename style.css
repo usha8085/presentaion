@@ -1,0 +1,419 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: black;
+}
+.navbar h1{
+    color: olive;
+    margin-left: 600px;
+}
+.navbar1 ul li a{
+    color: white;
+}
+.navbar1  ul{
+    display: flex;
+    gap: 10px;
+    margin-left: 1250px;
+}
+.navbar2 ul{
+    display: flex;
+    gap: 30px;
+    margin-left: 400px;
+    font-size: 20px;
+   
+}
+.navbar2{
+    background-color:white;
+    height: 50px;
+}
+.navbar2 ul li a {
+    list-style: none;
+   text-decoration: none;
+   color: black;
+}
+.navbar2 ul li a i{
+    list-style: none;
+    text-decoration: none;
+}
+.box{
+    display: flex;
+    background-color:white;
+    gap: 10px;
+   
+}
+.boxxing{
+    border-radius: 28900px;
+}
+.box1{
+    margin-left: 70px;
+  
+}
+.box1 image{
+        width: 50px;
+     border-radius: 19000px; 
+}
+.image{
+    background: url(/lakme.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+.trending{
+    h1{
+        text-align: center;
+        font-weight: lighter;
+        font-size: 40px;
+    }
+    p{
+        text-align: center;
+        font-size: 15PX;
+    }
+button{
+    color:black;
+    font-size: 20px;
+    height: 50px;
+    width:20%;
+    align-items: center;
+    border-radius: 20px;
+    &&:hover{
+        color: white;
+        background-color: black;
+    }
+}
+}
+.btn1{
+    margin-left: 32%;
+}
+.h1{
+    align-items: center;
+}
+
+.card{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+    gap: 20px;
+}
+.card_image{
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+}
+.card2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+    gap: 20px;
+}
+.card2_image{
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+}
+.card1{
+    border: 3px solid gold;
+    border-radius: 30px;
+   
+}
+.btu{
+    color: crimson;
+    margin-bottom: 50px;
+    margin-top: 70px;
+    height: 57px;
+    width: 280px;
+    margin-left: 10px;
+    background-color:goldenrod ;
+    border-radius: 30px;
+    font-size: 20px;
+    border: 3px solid brown;
+    &&:hover{
+        background-color: darkgoldenrod;
+        border: 3px solid red;
+        color: black;
+    }
+}
+.color{
+    background-color: black;
+    height: 200px;
+    
+}
+ .color h3{
+    color: white;
+ 
+ }
+ .color h4{
+    color: red;
+ }
+ .background{
+    background-color:black;
+    height: 100px;
+ }
+.heading{
+    color: white;
+    font-size: 30px;
+   margin-left: 450px;
+ 
+}
+.heading1{
+    color: white;
+    font-size: 20px;
+   margin-left: 430px;
+   margin-top: 20px;
+ 
+}
+.h2{
+    margin-left: 30px;
+}
+.heading3{
+    color:black;
+    font-size: 40px;
+   margin-left: 100px;
+   margin-top: 20px;
+ 
+}
+ .bt{
+    color:black;
+     font-size: 20px;
+    margin-left: 550px;
+    background-color:white;
+    border-radius: 20px;
+    border: 3px solid black;
+    height: 50px;
+    width: 300px;
+    &&:hover{
+        border: 3px solid red;
+        color: red;
+    }
+ }
+
+ .lekh1{
+    background: url(/lekh1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    width: 25%;
+ }
+ .lekh2{
+    background: url(/lekh2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    width: 25%;
+ }
+ .lekh3{
+    background: url(/lekh.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    width: 25%;
+ }
+ .paragraph{
+    color:black;
+    font-size: 40px;
+    margin-left: 550px;
+ }
+ .paragraph1{
+    color:black;
+    font-size: 20px;
+    margin-left: 500px;
+ }
+ .paragraph2{
+    color:black;
+    font-size: 40px;
+    margin-left: 400px;
+ }
+ .lekh{
+    display: flex;
+    gap: 30px;
+    margin-left: 250px;
+    border-radius: 2px solid gold;
+ }
+ .nen1{
+    border: 3px solid pink;
+    border-radius: 20px;
+    margin-left: 10px;
+   
+
+ }
+ .nen img{
+    height: 300px;
+    width: 300px;
+}
+ .nen{
+    display: flex;
+    gap: 20px;
+ }
+ .kkk{
+    background-color:black;
+    border-radius: 20px;
+    height: 40px;
+    color: white;
+ }
+ .kkk1{
+    height: 50px;
+    color: white;
+    border-radius: 20px;
+    background-color: darksalmon;
+   
+ }
+
+ .kkk2{
+    color: white;
+    height: 50px;
+    border-radius: 20px;
+    background-color:orangered;
+ }
+ .kkk4{
+    color: white;
+    height: 50px;
+    border-radius: 20px;
+    background-color:deepskyblue;
+ }
+ .kkk3{
+    height: 50px;
+    border-radius: 20px;
+    color: white;
+    background-color:dimgrey;
+ }
+ .parent{
+    display: flex;
+    justify-content: space-around ;
+   
+ }
+ .child{
+    width: 300px;
+    border: 1px solid wheat;
+ }
+ .bts{
+    color:white;
+    background-color: darkred;
+    height: 50px;
+    width: 200px;
+    position: relative;
+    left: 6rem ;
+ }
+
+ /* footer */
+ .content {
+    min-height: 80vh;
+    padding: 20px;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+.footer {
+    background: linear-gradient(135deg, black, #33334d);
+    color: #fff;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.footer-section {
+    flex: 1;
+    margin: 10px;
+    min-width: 250px;
+}
+
+.footer-section h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: #ff9800;
+}
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin: 5px 0;
+}
+
+.footer-section ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+.footer-section ul li a:hover {
+    color: #ff9800;
+    text-decoration: underline;
+}
+
+.social-links a {
+    margin: 0 10px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+.social-links a:hover {
+    transform: scale(1.2);
+    color: #ff9800;
+}
+
+
+
+
+@media screen and (max-width:768px) {
+    
+    .box {
+        display: grid;
+       grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+
+    .card{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .card2{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .navbar2 ul{
+        gap: 40px;
+        margin-left: 135px;
+    }
+    .bt{
+        margin-left: 400px;
+    }
+    .lak img {
+         width: 99%;
+    }
+    .nen{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .footerimg img{
+        width: 100%;
+    }
+    .parent{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .navbar1 ul{
+        display: none;
+    }
+    .parent{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .child{
+        width: 80%;
+    }
+    .navbar h1{
+        margin-left: 300px;
+    }
+}
+
